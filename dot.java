@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Main
+public class dot
 {
 	public static void main(String[] args) {
 		String word;
